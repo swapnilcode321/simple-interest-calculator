@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: #E8F5BD;
+}
+.simple_calculator{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    margin: 80px auto;
+    border-radius: 40px ;
+    background-color :#BBD5DA;
+}
+input{
+    padding:20px;
+    width: 330px;
+    border-radius: 10px ;
+    margin: 4px;
+    background-color: #E6EEC9;
+    color: black;
+
+}
+button{
+    width: 200px;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: #E6EEC9;
+
+}
+
